@@ -11,7 +11,7 @@
 	<atom:link href="http://localhost/myproject/mywordpress/champions-league/feed/" rel="self" type="application/rss+xml" />
 	<link>https://namhoang116.github.io/wp1</link>
 	<description>Cập nhật thông tin chính xác</description>
-	<lastBuildDate>Thu, 10 Jun 2021 13:59:56 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Jun 2021 14:47:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Bởi: Hoàng Văn Nam		</title>
-		<link>https://namhoang116.github.io/wp1/champions-league/#comment-2</link>
+		<link>https://namhoang116.github.io/wp1/#comment-2</link>
 
 		<dc:creator><![CDATA[Hoàng Văn Nam]]></dc:creator>
 		<pubDate>Thu, 10 Jun 2021 09:54:13 +0000</pubDate>
