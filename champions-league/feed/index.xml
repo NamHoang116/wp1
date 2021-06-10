@@ -11,11 +11,25 @@
 	<atom:link href="http://localhost/myproject/mywordpress/champions-league/feed/" rel="self" type="application/rss+xml" />
 	<link>https://namhoang116.github.io/wp1</link>
 	<description>Cập nhật thông tin chính xác</description>
-	<lastBuildDate>Thu, 10 Jun 2021 08:35:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Jun 2021 09:54:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<item>
+		<title>
+		Bởi: Hoàng Văn Nam		</title>
+		<link>https://namhoang116.github.io/wp1/champions-league/#comment-2</link>
+
+		<dc:creator><![CDATA[Hoàng Văn Nam]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2021 09:54:13 +0000</pubDate>
+		<guid isPermaLink="false">https://namhoang116.github.io/wp1/?page_id=52#comment-2</guid>
+
+					<description><![CDATA[ok]]></description>
+			<content:encoded><![CDATA[<p>ok</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
