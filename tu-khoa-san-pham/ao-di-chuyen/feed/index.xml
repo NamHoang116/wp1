@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Áo DI CHUYỂN &#8211; MY SHOPPING</title>
+	<atom:link href="http://localhost/myproject/mywordpress/tu-khoa-san-pham/ao-di-chuyen/feed/" rel="self" type="application/rss+xml" />
+	<link>https://namhoang116.github.io/wp1</link>
+	<description>Bán áo thể thao giá rẻ uy tín hàng đầu Việt Nam</description>
+	<lastBuildDate>Thu, 01 Jul 2021 02:40:24 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/cropped-cropped-Mau-logo-bong-da-dep-20-32x32.png</url>
+	<title>Áo DI CHUYỂN &#8211; MY SHOPPING</title>
+	<link>https://namhoang116.github.io/wp1</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Áo DI CHUYỂN(THỂ THAO)</title>
+		<link>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-tapdi-chuyen/</link>
+					<comments>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-tapdi-chuyen/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Văn Nam]]></dc:creator>
+		<pubDate>Sun, 27 Jun 2021 08:29:38 +0000</pubDate>
+				<guid isPermaLink="false">https://namhoang116.github.io/wp1/?post_type=product&#038;p=378</guid>
+
+					<description><![CDATA[Công nghệ 100% Polyester
+
+• Cờ Việt Nam thêu đặc biệt
+
+• Siêu nhẹ, thoáng khí
+
+• Thiết kế đặc biệt
+
+• Kiểu dáng thời trang]]></description>
+										<content:encoded><![CDATA[<p><em><strong>Giới thiệu sản phẩm Áo Di Chuyển Đội Tuyển Việt Nam 2021 Xanh Da Trời</strong></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-tapdi-chuyen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

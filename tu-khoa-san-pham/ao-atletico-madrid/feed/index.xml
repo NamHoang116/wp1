@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Áo Atletico Madrid &#8211; MY SHOPPING</title>
+	<atom:link href="http://localhost/myproject/mywordpress/tu-khoa-san-pham/ao-atletico-madrid/feed/" rel="self" type="application/rss+xml" />
+	<link>https://namhoang116.github.io/wp1</link>
+	<description>Bán áo thể thao giá rẻ uy tín hàng đầu Việt Nam</description>
+	<lastBuildDate>Thu, 01 Jul 2021 02:37:57 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/cropped-cropped-Mau-logo-bong-da-dep-20-32x32.png</url>
+	<title>Áo Atletico Madrid &#8211; MY SHOPPING</title>
+	<link>https://namhoang116.github.io/wp1</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Áo Atletico Madrid</title>
+		<link>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-atletico-madrid/</link>
+					<comments>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-atletico-madrid/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Văn Nam]]></dc:creator>
+		<pubDate>Tue, 29 Jun 2021 09:04:05 +0000</pubDate>
+				<guid isPermaLink="false">https://namhoang116.github.io/wp1/?post_type=product&#038;p=488</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Một chiếc áo bóng đá bằng vải Thailand vô cùng <strong>nhẹ và cảm giác dễ chịu</strong></li>
+ 	<li>Khả năng <strong>chống nhăn, kháng bụi và ẩm mốc</strong> tốt hơn cả các loại vải khác</li>
+ 	<li>Tính thẩm mỹ của loại vải này khiến nó được ưu ái trong sản xuất áo thể thao. Các sợi vải của <strong>áo giữ màu rất tốt</strong> cho màu sắc của áo luôn tươi mới</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p><em>Những năm gần đây, nỗ lực của Atletico Madrid đã phá bỏ thế thống trị của 2 gã khổng lồ, giúp cho La Liga trở nên hấp dẫn hơn. Số lượng người hâm mộ tìm kiếm đến mẫu áo sọc đỏ trắng của Atletico trở nên nhiều hơn. Nhờ vậy mà bộ áo đấu này trở thành một trong những chiếc áo bóng đá được nhiều người yêu thích</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-atletico-madrid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

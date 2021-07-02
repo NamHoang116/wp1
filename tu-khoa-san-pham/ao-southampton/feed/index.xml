@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Áo Southampton &#8211; MY SHOPPING</title>
+	<atom:link href="http://localhost/myproject/mywordpress/tu-khoa-san-pham/ao-southampton/feed/" rel="self" type="application/rss+xml" />
+	<link>https://namhoang116.github.io/wp1</link>
+	<description>Bán áo thể thao giá rẻ uy tín hàng đầu Việt Nam</description>
+	<lastBuildDate>Thu, 01 Jul 2021 02:35:27 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/cropped-cropped-Mau-logo-bong-da-dep-20-32x32.png</url>
+	<title>Áo Southampton &#8211; MY SHOPPING</title>
+	<link>https://namhoang116.github.io/wp1</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Áo Southampton</title>
+		<link>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-southampton/</link>
+					<comments>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-southampton/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Văn Nam]]></dc:creator>
+		<pubDate>Tue, 29 Jun 2021 08:55:55 +0000</pubDate>
+				<guid isPermaLink="false">https://namhoang116.github.io/wp1/?post_type=product&#038;p=485</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Về sản phẩm: đa dạng mẫu mã, chất lượng từ bình dân đến cao cấp.</li>
+ 	<li>Về dịch vụ: chuyên nghiệp trong bán hàng, chu đáo trong phục vụ, uy tín trong kinh doanh.</li>
+ 	<li>Về độ tin cậy: đã đáp ứng cho hàng nghìn cá nhân và tổ chức tại TPHCM nói riêng và khắp cả nước nói chung.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h3 class="product-title product_title entry-title"> Áo bóng đá đội SOUTHAMPTON FC</h3>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-southampton/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

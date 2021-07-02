@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Áo Dortmund &#8211; MY SHOPPING</title>
+	<atom:link href="http://localhost/myproject/mywordpress/tu-khoa-san-pham/ao-dortmund/feed/" rel="self" type="application/rss+xml" />
+	<link>https://namhoang116.github.io/wp1</link>
+	<description>Bán áo thể thao giá rẻ uy tín hàng đầu Việt Nam</description>
+	<lastBuildDate>Thu, 01 Jul 2021 02:38:25 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/cropped-cropped-Mau-logo-bong-da-dep-20-32x32.png</url>
+	<title>Áo Dortmund &#8211; MY SHOPPING</title>
+	<link>https://namhoang116.github.io/wp1</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Áo Dortmund</title>
+		<link>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-dortmund/</link>
+					<comments>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-dortmund/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Văn Nam]]></dc:creator>
+		<pubDate>Tue, 29 Jun 2021 09:13:08 +0000</pubDate>
+				<guid isPermaLink="false">https://namhoang116.github.io/wp1/?post_type=product&#038;p=491</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Logo thêu sắc sảo, bền đẹp không bong tróc</li>
+ 	<li>Vải thun lạnh 100% polyester, đặt dệt độc quyền mềm và mịn.</li>
+ 	<li>Độ co dãn tốt, giúp thoáng mát và thoải mái khi vận động.</li>
+ 	<li>Màu áo quần cực bền, in ấn có độ thẩm mỹ cao, không bong tróc.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p><strong>Áo Dortmund 2021/22</strong> sở hữu một thiết kế đẹp mắt, ấn tượng cùng những màu sắc hết sức nổi bật.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-dortmund/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

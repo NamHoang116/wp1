@@ -8,16 +8,177 @@
 	>
 
 <channel>
-	<title>Tin tức 24/7</title>
+	<title>MY SHOPPING</title>
 	<atom:link href="http://localhost/myproject/mywordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://namhoang116.github.io/wp1</link>
-	<description>Cập nhật thông tin chính xác</description>
-	<lastBuildDate>Fri, 11 Jun 2021 09:37:14 +0000</lastBuildDate>
+	<description>Bán áo thể thao giá rẻ uy tín hàng đầu Việt Nam</description>
+	<lastBuildDate>Thu, 01 Jul 2021 14:40:49 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+
+<image>
+	<url>https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/cropped-cropped-Mau-logo-bong-da-dep-20-32x32.png</url>
+	<title>MY SHOPPING</title>
+	<link>https://namhoang116.github.io/wp1</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Phân biệt áo đấu chính hãng và kém chất lượng</title>
+		<link>https://namhoang116.github.io/wp1/luu-y/phan-biet-ao-dau-chinh-hang-va-kem-chat-luong/</link>
+					<comments>https://namhoang116.github.io/wp1/luu-y/phan-biet-ao-dau-chinh-hang-va-kem-chat-luong/#comments</comments>
+		
+		<dc:creator><![CDATA[Hoàng Văn Nam]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 15:17:50 +0000</pubDate>
+				<category><![CDATA[Lưu ý]]></category>
+		<guid isPermaLink="false">https://namhoang116.github.io/wp1/?p=444</guid>
+
+					<description><![CDATA[So sánh sự khác nhau về chất liệu Một trong những khác biệt lớn nhất giữa áo đấu bóng đá không logo chính hãng và hàng kém chất lượng chính là chất liệu may áo. Các mẫu áo bóng đá chính hãng không logo sử dụng chất liệu vải cao cấp với các tính năng tốt nhằm mang đến [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="444" class="elementor elementor-444" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-c9ffef1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c9ffef1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-11ecf19" data-id="11ecf19" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1d899a3 elementor-widget elementor-widget-image" data-id="1d899a3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="300" height="147" src="https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/Phan-biet-ao-dau-khong-logo-chinh-hang-va-kem-chat-luong-300x147.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/Phan-biet-ao-dau-khong-logo-chinh-hang-va-kem-chat-luong-300x147.png 300w, https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/Phan-biet-ao-dau-khong-logo-chinh-hang-va-kem-chat-luong-768x377.png 768w, https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/Phan-biet-ao-dau-khong-logo-chinh-hang-va-kem-chat-luong-416x204.png 416w, https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/Phan-biet-ao-dau-khong-logo-chinh-hang-va-kem-chat-luong.png 815w" sizes="(max-width: 300px) 100vw, 300px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9075bce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9075bce" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b3b1994" data-id="b3b1994" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f21661f elementor-widget elementor-widget-text-editor" data-id="f21661f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<ol><li><span style="color: #ffff00;"> So sánh sự khác nhau về chất liệu</span></li></ol><p><span style="color: #cc99ff;">Một trong những khác biệt lớn nhất giữa <strong><em>áo đấu bóng đá không logo chính hãng</em></strong> và hàng kém chất lượng chính là chất liệu may áo. Các mẫu <strong>áo bóng đá chính hãng</strong> không logo sử dụng chất liệu vải cao cấp với các tính năng tốt nhằm mang đến cảm giác thoải mái cho người mặc. Có thể kể đến các tính năng như co giãn 4 chiều, thấm hút mồ hôi tốt, thoáng khí, vải mịn, mát, bền màu. Các sản phẩm hàng kém chất lượng thường được may từ chất liệu kém, khiến người mặc cảm thấy khó chịu khi sử dụng.</span></p><ol start="2"><li><span style="color: #ffff00;"> Phân biệt áo đấu chính hãng với áo kém chất lượng bằng giá thành</span></li></ol><p><span style="color: #cc99ff;">Bạn có thể dựa vào giá thành sản phẩm để phân biệt hàng chất lượng và hàng kém chất lượng. Hầu hết các sản phẩm quần <strong>áo không logo chính hãng</strong> được may với chất liệu cao cấp, công nghệ hiện đại nên có mức giá thành cao hơn. Còn các sản phẩm kém chất lượng thường được may với vải giá rẻ, may đại trà số lượng lớn nên có mức giá thành tương đối rẻ. Nếu người bán nói với với bạn sản phẩm chất lượng với mức giá rẻ hơn bình thường thì bạn nên cân nhắc.</span></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://namhoang116.github.io/wp1/luu-y/phan-biet-ao-dau-chinh-hang-va-kem-chat-luong/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Áo tự tay thiết kế</title>
+		<link>https://namhoang116.github.io/wp1/mau-thiet-ke/ao-tu-tay-thiet-ke/</link>
+					<comments>https://namhoang116.github.io/wp1/mau-thiet-ke/ao-tu-tay-thiet-ke/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Văn Nam]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 15:08:52 +0000</pubDate>
+				<category><![CDATA[Mẫu thiết kế]]></category>
+		<guid isPermaLink="false">https://namhoang116.github.io/wp1/?p=437</guid>
+
+					<description><![CDATA[Áo bóng đá tự tay thiết kế Bạn muốn tự tay thiết kế cho mình một bộ áo bóng đá đẹp mắt và ấn tượng? Sau đây My Shopping sẽ giới thiệu tới cho quý vị bạn đọc quan tâm một vài phần mềm tự thiết kế áo bóng đá thông dụng nhất hiện nay qua bài [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="437" class="elementor elementor-437" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-6afaeb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6afaeb4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-691689d" data-id="691689d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5aefcf3 elementor-widget elementor-widget-image" data-id="5aefcf3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img width="300" height="257" src="https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/ao1-300x257.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/ao1-300x257.jpg 300w, https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/ao1-416x356.jpg 416w, https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/ao1.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="widget-image-caption wp-caption-text">Áo bóng đá tự tay thiết kế</figcaption>
+										</figure>
+									</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cb0664b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cb0664b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-da7b72c" data-id="da7b72c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-103c3e4 elementor-widget elementor-widget-text-editor" data-id="103c3e4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p><span style="color: #ff9900;">Bạn muốn tự tay thiết kế cho mình một bộ áo bóng đá đẹp mắt và ấn tượng? Sau đây <strong>My Shopping</strong> sẽ giới thiệu tới cho quý vị bạn đọc quan tâm một vài phần mềm tự thiết kế áo bóng đá thông dụng nhất hiện nay qua bài viết dưới đây:</span></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d53ff99 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d53ff99" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bb578d9" data-id="bb578d9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-011e91a elementor-widget elementor-widget-text-editor" data-id="011e91a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<ol><li><span style="color: #00ff00;"><strong><u> Sự lựa chọn đơn giản từ phần mềm Bluecotton.com</u></strong></span><p><span style="color: #00ff00;">Có rất nhiều phần mềm thiết kế <strong><em><a style="color: #00ff00;" href="https://www.mayaobongda.com/2019/08/nhung-mau-quan-ao-bong-da-doc-la-tu-thiet-ke.html">áo bóng đá độc lạ</a></em></strong> mà bạn có thể tìm thấy hiện nay trên mạng. Nếu như bạn có một chút Tiếng Anh có thể tìm hiểu những website nước ngoài về thiết kế áo. Tại những trang này có rất nhiều họa tiết trang trí cũng như icon ngộ nghĩnh cho bạn lựa chọn.</span></p></li><li><span style="color: #00ff00;"><strong><u> Chuyên nghiệp với phần mềm Customlnk</u></strong></span><p><span style="color: #00ff00;">Tại trang web có kho thư viện hình ảnh đa dạng, phong phú và thú vị. Sẽ vô cùng dễ dàng lựa chọn ngay cho mình những mẫu quần áo bóng đá tự thiết kế đẹp ưng ý. Trang có giao diện đơn giản và vô cùng thân thiện, có khả năng tích hợp di chuyển, thu phóng, ghép ảnh…Bạn chỉ cần thực hiện những thao tác này bằng các click chuột đơn giản.</span></p></li><li><span style="color: #00ff00;"><strong><u> Phần mềm thiết kế áo bóng đá không logo tự thiết kế Uberprints</u></strong></span><p><span style="color: #00ff00;">Đây là phần mềm tự thiết kế áo khá được nhiều bạn trẻ ưa thích bởi nó đậm chất tuổi trẻ. Có nhiều hình ảnh cũng như các chủ đề đa dạng, phong phú, trẻ trung tại kho chứa ảnh đồ sộ. Phần mềm Uberprints sẽ mang tới cho bạn những chiếc áo cá tính với thiết kế của mình. Không những vậy mà còn thổi hồn đầy tính nghệ thuật vào thiết kế áo.</span></p></li></ol><p><span style="color: #00ff00;"><strong><u>4. Sự lựa chọn cho những ai đam mê áo thể thao tự thiết kế SpreadShirt</u></strong></span></p><p><span style="color: #00ff00;">Tại web có hàng nghìn chủ đề và hình ảnh về thể thao mà bạn tha hồ lựa chọn. Bất cứ những hình ảnh về môn thể thao mà bạn yêu thích đều có trong thư viện khổng lồ của website. Nếu bạn đang muốn tự tay thiết kế cho mình một chiếc áo bóng đá ấn tượng, cá tính và chất. Còn lo lắng hay e ngại gì mà không vào ngay web để tự tay thiết kế ngay cho mình một chiếc áo độc, lạ, cá tính nhất.</span></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://namhoang116.github.io/wp1/mau-thiet-ke/ao-tu-tay-thiet-ke/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Những mẫu áo clb hàng đầu thế giới</title>
+		<link>https://namhoang116.github.io/wp1/hot-new/nhung-mau-ao-clb-hang-dau-the-gioi/</link>
+					<comments>https://namhoang116.github.io/wp1/hot-new/nhung-mau-ao-clb-hang-dau-the-gioi/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Văn Nam]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 15:00:23 +0000</pubDate>
+				<category><![CDATA[Hot news]]></category>
+		<guid isPermaLink="false">https://namhoang116.github.io/wp1/?p=429</guid>
+
+					<description><![CDATA[Thời trang sân cỏ chưa bao giờ hết HOT, đặc biệt là tại mỗi mùa giải mới. Các nhà thiết kế nổi tiếng trên thế giới không ngừng tìm tòi sáng tạo ra các mẫu quần áo câu lạc bộ vừa tiện lợi, thoải mái khi sử dụng vừa ấn tượng, bắt mắt. Việc thiết [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="429" class="elementor elementor-429" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-a0a47ac elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a0a47ac" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22e79bb" data-id="22e79bb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-58dd0ef elementor-widget elementor-widget-image" data-id="58dd0ef" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="300" height="214" src="https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/ao-bong-d_636881722013172011_HasThumb-300x214.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/ao-bong-d_636881722013172011_HasThumb-300x214.jpg 300w, https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/ao-bong-d_636881722013172011_HasThumb-416x297.jpg 416w, https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/ao-bong-d_636881722013172011_HasThumb.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7a3d1e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7a3d1e4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c77cac4" data-id="c77cac4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f36d999 elementor-widget elementor-widget-text-editor" data-id="f36d999" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p><span style="color: #00ffff;">Thời trang sân cỏ chưa bao giờ hết HOT, đặc biệt là tại mỗi mùa giải mới. Các nhà thiết kế nổi tiếng trên thế giới không ngừng tìm tòi sáng tạo ra các mẫu quần áo câu lạc bộ vừa tiện lợi, thoải mái khi sử dụng vừa ấn tượng, bắt mắt. Việc thiết kế các mẫu quần áo thi đấu cho 1 câu lạc bộ không chỉ dựa vào các tiêu chí trên mà còn phải thể hiện được màu cờ sắc áo của đội bóng mang tên thành phố hay tinh thần bốc lửa của các fan hâm mộ ở xứ sở của câu lạc bộ đó. </span></p><p><span style="color: #00ffff;">Mùa bóng 2021 đã chính thức khởi tranh vô cùng sôi động. Cả thế giới theo dõi từng nhịp của trái bóng lăn. Cũng như thường lệ, mùa bóng mới các câu lạc bộ sẽ cho ra mắt các mẫu áo bóng đá mới. Mẫu áo đấu các câu lạc bộ mới nhất mùa giải 2021 luôn được các khách hàng lựa chọn hàng đầu.</span></p><p><span style="color: #00ffff;"><b>My Shopping</b> luôn cập nhật những mẫu áo đấu mới nhất của các câu lạc bộ hàng đầu thế giới ở 5 giải đấu hấp dẫn nhất hiện nay: Premier League (Ngoại Hạng Anh, La Liga, Bundesliga, Serie A, Ligue1….bao gồm áo đấu sân nhà, áo sân khách và áo mẫu 3 với các chất liệu vải khác nhau, từ áo đấu hàng Việt Nam, áo bóng đá hàng Thái Lan, áo bóng đá chính hãng,…</span></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://namhoang116.github.io/wp1/hot-new/nhung-mau-ao-clb-hang-dau-the-gioi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

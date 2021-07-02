@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Áo PoLo(Sportif) &#8211; MY SHOPPING</title>
+	<atom:link href="http://localhost/myproject/mywordpress/tu-khoa-san-pham/ao-polosportif/feed/" rel="self" type="application/rss+xml" />
+	<link>https://namhoang116.github.io/wp1</link>
+	<description>Bán áo thể thao giá rẻ uy tín hàng đầu Việt Nam</description>
+	<lastBuildDate>Thu, 01 Jul 2021 02:19:07 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/cropped-cropped-Mau-logo-bong-da-dep-20-32x32.png</url>
+	<title>Áo PoLo(Sportif) &#8211; MY SHOPPING</title>
+	<link>https://namhoang116.github.io/wp1</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Áo PoLo(Sportif)</title>
+		<link>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-polosportif/</link>
+					<comments>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-polosportif/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Văn Nam]]></dc:creator>
+		<pubDate>Sun, 27 Jun 2021 02:37:48 +0000</pubDate>
+				<guid isPermaLink="false">https://namhoang116.github.io/wp1/?post_type=product&#038;p=334</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Áo polo ngắn tay - Áo 100% cotton 200g</li>
+ 	<li> Dễ chịu khi mặc</li>
+ 	<li>Cổ áo có thanh cổ áo và nút cài nút, khe ở hai bên</li>
+ 	<li> Huy hiệu thêu logo gà trên ngực trái</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Le coq sportif (trong tiếng Pháp có nghĩa là “chú gà trống lực lưỡng“) – một nhãn hiệu đến từ Pháp với các mặt hàng sản phẩm như giày, áo, shorts v.v…</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-polosportif/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Áo Tottenham &#8211; MY SHOPPING</title>
+	<atom:link href="http://localhost/myproject/mywordpress/tu-khoa-san-pham/ao-tottenham/feed/" rel="self" type="application/rss+xml" />
+	<link>https://namhoang116.github.io/wp1</link>
+	<description>Bán áo thể thao giá rẻ uy tín hàng đầu Việt Nam</description>
+	<lastBuildDate>Thu, 01 Jul 2021 02:34:07 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://namhoang116.github.io/wp1/wp-content/uploads/2021/06/cropped-cropped-Mau-logo-bong-da-dep-20-32x32.png</url>
+	<title>Áo Tottenham &#8211; MY SHOPPING</title>
+	<link>https://namhoang116.github.io/wp1</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Áo Tottenham</title>
+		<link>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-tottenham/</link>
+					<comments>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-tottenham/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Văn Nam]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 08:52:17 +0000</pubDate>
+				<guid isPermaLink="false">https://namhoang116.github.io/wp1/?post_type=product&#038;p=242</guid>
+
+					<description><![CDATA[<em>Với trang phục áo trắng quần xanh truyền thống. Nhưng thiết kế mới của áo đấu sân nhà mới của Tottenham mùa giải 2021-2022 táo bạo và độc đáo hơn nhiều. Phông áo màu trắng được kết hợp với viền ziczac màu xanh. Tay áo cũng được kết hợp bới 2 màu cơ bản này. Phần cổ áo đặc biệt hơn khi lấy cảm hứng từ bộ đồ sân khách của Barca. Ra các họa tiết khác nhau đều được in chìm trên toàn bộ chiếc áo</em>]]></description>
+										<content:encoded><![CDATA[<p>Trong danh mục “Áo Tottenham” tổng hợp các mẫu áo mới nhất của câu lạc bộ với đầy đủ kích thước và chất liệu. Ngoài mẫu <strong>áo chính thức</strong> của các câu lạc bộ, các mẫu <strong>áo polo, áo dành cho fan</strong>…cũng được cập nhật trong danh mục</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://namhoang116.github.io/wp1/cua-hang/san-pham/ao-tottenham/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
